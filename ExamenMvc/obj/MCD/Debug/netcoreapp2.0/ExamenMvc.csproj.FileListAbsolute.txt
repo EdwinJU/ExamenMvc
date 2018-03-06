@@ -1,0 +1,10 @@
+C:\Users\Guisbell\ExamenMvc\bin\MCD\Debug\netcoreapp2.0\ExamenMvc.deps.json
+C:\Users\Guisbell\ExamenMvc\bin\MCD\Debug\netcoreapp2.0\ExamenMvc.runtimeconfig.json
+C:\Users\Guisbell\ExamenMvc\bin\MCD\Debug\netcoreapp2.0\ExamenMvc.runtimeconfig.dev.json
+C:\Users\Guisbell\ExamenMvc\bin\MCD\Debug\netcoreapp2.0\ExamenMvc.dll
+C:\Users\Guisbell\ExamenMvc\bin\MCD\Debug\netcoreapp2.0\ExamenMvc.pdb
+C:\Users\Guisbell\ExamenMvc\obj\MCD\Debug\netcoreapp2.0\ExamenMvc.csproj.CoreCompileInputs.cache
+C:\Users\Guisbell\ExamenMvc\obj\MCD\Debug\netcoreapp2.0\ExamenMvc.AssemblyInfoInputs.cache
+C:\Users\Guisbell\ExamenMvc\obj\MCD\Debug\netcoreapp2.0\ExamenMvc.AssemblyInfo.cs
+C:\Users\Guisbell\ExamenMvc\obj\MCD\Debug\netcoreapp2.0\ExamenMvc.dll
+C:\Users\Guisbell\ExamenMvc\obj\MCD\Debug\netcoreapp2.0\ExamenMvc.pdb

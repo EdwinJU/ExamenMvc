@@ -1,0 +1,22 @@
+@model IEnumerable<ExamenMvc.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form asp-action="Login">
+    <p>
+        <label for="Username">Username:</label>
+        <input type="text" name="Username">
+        <label for="Password">Password:</label>
+         <input type="text" name="Password">
+    </p>
+    <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-success" />
+            </div>
+</form>
+    @section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
